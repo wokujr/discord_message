@@ -1,0 +1,68 @@
+key.cpp
+
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Bb]uild/
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# C++ build files
+*.exe
+*.obj
+*.dll
+*.pdb
+*.ilk
+*.lib
+*.idb
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+*.make
+*.ninja
+build/
+
+# Qt (if used)
+moc_*.cpp
+ui_*.h
+qrc_*.cpp
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+*.sdf
+*.ipch
+*.db
+*.opendb
+*.VC.db
+
+# Ignore compiled resource files
+*.res
+
+# Backup or autosave files
+*~  
+*.autosave
+
+# Environment files
+.env
+
+# Directories used by JetBrains IDEs (like CLion)
+.idea/
+
+# Visual Studio Code
+.vscode/
